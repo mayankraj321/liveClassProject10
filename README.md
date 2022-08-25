@@ -17,5 +17,5 @@
 - position
 
 ---
-<img src="project.png" max-width=600px>
+<img src="./images/project.png" max-width=600px>
 
