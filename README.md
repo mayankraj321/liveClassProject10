@@ -8,7 +8,7 @@
 ![Time](https://img.shields.io/badge/Time%20Taken-1hrs-green.svg)
 
 
-### Checkout the live website [here](https://mayankraj-lcp010.netlify.app/).
+### Checkout the live website [here](https://mayankraj-lcp10.netlify.app/).
 
 ## My Learnings
 
